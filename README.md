@@ -1,9 +1,9 @@
 # tiktokD
 
 """
-    This is a simple script to scrap video from tiktok using urlebird.com
+    This is a simple script to scrap videos from tiktok using urlebird.com
     still needs improvements 
-    still need to fix the `load more` videos
+    i still need to fix the `load more` videos section
 """
 # requirements 
 bs4
